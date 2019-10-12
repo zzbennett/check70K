@@ -1,0 +1,8 @@
+{
+  "slack_endpoint": "https://hooks.slack.com/services/xxxx/yyy/zzzzz",
+  "phone_numbers": [
+    "+14155555555"
+  ],
+  "aws_access_key": "XXXXXXXXXXXXX",
+  "aws_secret_key": "YYYYYYYYYYYYYYYY"
+}
